@@ -1,0 +1,1436 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10362982000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1075219400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 277787100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 524264400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 231738300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 809949100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1904756800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"Alfa Romeo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Alfa Romeo",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 163569700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"147\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "147",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134882100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"ACT - All\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ACT - All",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 210266200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$30,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$30,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4758939900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 389752900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"Alfa Romeo\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Alfa Romeo",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6681106600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 1035732600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 94100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 550095400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 258324700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1688242300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 436850600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"Audi\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Audi",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147521500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"Q3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Q3",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128279700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"ACT - All\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ACT - All",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 140757100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$40,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$40,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 233965100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 509713200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"Audi\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Audi",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6138198900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 1022448000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 139300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 390872200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 273041300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 946605800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2172529400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"BMW\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BMW",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 108082400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"Any Model\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Any Model",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134205100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"NSW - Sydney\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NSW - Sydney",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126075900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$50,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$50,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6967593900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 355460500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"BMW\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BMW",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5861729000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 1012727200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 213900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 459896500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 287858500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 806579300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2098020600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"Honda\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Honda",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 200340100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"CR-V\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "CR-V",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 87035500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"Any Location\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Any Location",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 131326100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$60,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$60,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 194306000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5189201600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"Honda\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Honda",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5833468200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 1105506400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 162000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 345528500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 302471000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 836877000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2005008300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"Mercedes-Benz\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mercedes-Benz",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 179689800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"A-Class\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "A-Class",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81275900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"Any Location\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Any Location",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 162465500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$100,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$100,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 16056799000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 403897800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"Mercedes-Benz\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mercedes-Benz",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6524567800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Search the buy car with model",
+        "description": "",
+        "id": "search-functionality;search-the-buy-car-with-model;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 1044650700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 73100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 373152300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on \"buy + sell\" tab",
+            "match": {
+              "arguments": [
+                {
+                  "val": "buy + sell",
+                  "offset": 18
+                }
+              ],
+              "location": "buySteps.iMouseHoverOnTab(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 255168700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click \"Search Cars\" link",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Search Cars",
+                  "offset": 9
+                }
+              ],
+              "location": "buySteps.iClickLink(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2350257500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I navigate to \"New \u0026 Used Car Search - carsguide\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New \u0026 Used Car Search - carsguide",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iNavigateToPage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 438158300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select make \"Jeep\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jeep",
+                  "offset": 15
+                }
+              ],
+              "location": "buySteps.iSelectMake(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126204600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select model \"Compass\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Compass",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectModel(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 122292200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select location \"NSW - Sydney\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NSW - Sydney",
+                  "offset": 19
+                }
+              ],
+              "location": "buySteps.iSelectLocation(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 160449100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select price \"$90,000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$90,000",
+                  "offset": 16
+                }
+              ],
+              "location": "buySteps.iSelectPrice(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5615445100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Find My Next Car tab",
+            "match": {
+              "location": "buySteps.iClickOnFindMyNextCarTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 330095100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the make \"Jeep\" in results",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jeep",
+                  "offset": 23
+                }
+              ],
+              "location": "buySteps.iShouldSeeTheMakeInResults(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search functionality",
+    "description": "",
+    "id": "search-functionality",
+    "keyword": "Feature",
+    "uri": "buy.feature"
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6598916700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Find the dealers and verify the dealers are in list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-list",
+        "after": [
+          {
+            "result": {
+              "duration": 973112900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 82700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "buySteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I mouse hover on “buy+sell” tab",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "I click ‘Find a Dealer’",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "I navigate to ‘car-dealers’ page",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I should see the dealer names \u003cdealersName\u003e are display on page",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "dealersName"
+                ],
+                "line": 10
+              },
+              {
+                "cells": [
+                  "3 Point Motors Epping"
+                ],
+                "line": 11
+              },
+              {
+                "cells": [
+                  "4WD Specialist Group"
+                ],
+                "line": 12
+              },
+              {
+                "cells": [
+                  "5 Star Auto"
+                ],
+                "line": 13
+              },
+              {
+                "cells": [
+                  "A \u0026 M Car Sales Pty Ltd"
+                ],
+                "line": 14
+              },
+              {
+                "cells": [
+                  "A1 MOTORS COMPANY"
+                ],
+                "line": 15
+              },
+              {
+                "cells": [
+                  "ANDREA MOTOR SERVICE"
+                ],
+                "line": 16
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Find the dealers and verify",
+    "description": "",
+    "id": "find-the-dealers-and-verify",
+    "keyword": "Feature",
+    "uri": "finddealers.feature"
+  }
+]

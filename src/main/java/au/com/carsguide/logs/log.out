@@ -1,0 +1,242 @@
+2021-12-15 22:12:47 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:685 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:865 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:846 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:467 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:868 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:96 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:283 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:503 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:780 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (243a896928111b581b683d20a874335b)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:299 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:464 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:65 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:50 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:415 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:657 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:858 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:64 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:278 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:522 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:537 INFO  ResultPage :37 - Result message: [[[ChromeDriver: chrome on WINDOWS (1efb6f5492871f5afa3f5fe7bb5dc22b)] -> class: search-header__title]]
+2021-12-15 22:12:880 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:770 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:900 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:675 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:183 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:551 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:779 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:61 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:330 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:564 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (0c22f81024d183faff172ecee6485179)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:877 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:153 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:863 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:120 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:342 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:529 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:679 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:772 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:897 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:180 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (78264be5d3a0e885cfd19c4a85d30336)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:870 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:42 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:694 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:927 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:63 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:242 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:349 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:611 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:805 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:989 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (29548836ae572d1d244ec5ff86cea9de)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:543 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:625 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:324 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:463 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:780 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:960 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:73 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:161 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:322 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:454 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:21 INFO  ResultPage :37 - Result message: [[[ChromeDriver: chrome on WINDOWS (247c3810a1ccd3afaf0d7031d5eab503)] -> class: search-header__title]]
+2021-12-15 22:12:138 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 22:12:638 INFO  HomePage :95 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //button[@id='toggle-hp-search']]
+2021-12-15 22:12:230 INFO  HomePage :72 - Enter job title [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //input[@id='keywords']]
+2021-12-15 22:12:540 INFO  HomePage :79 - Enter job Location [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //input[@id='location']]
+2021-12-15 22:12:646 INFO  HomePage :86 - select Distance : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //select[@id='distance']]
+2021-12-15 22:12:896 INFO  HomePage :102 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //input[@id='salarymin']]
+2021-12-15 22:12:45 INFO  HomePage :111 - Click on Search Option Button : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //input[@id='salarymax']]
+2021-12-15 22:12:122 INFO  HomePage :118 - Select Salary type : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //select[@id='salarytype']]
+2021-12-15 22:12:254 INFO  HomePage :125 - Select Job type : [[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //select[@id='tempperm']]
+2021-12-15 22:12:424 INFO  HomePage :132 - Click on 'ADD TO CART' Button[[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> xpath: //input[contains(@id,'hp-search-btn')]]
+2021-12-15 22:12:741 INFO  ResultPage :37 - Result message: [[[ChromeDriver: chrome on WINDOWS (e5ab526ec1b086cd945b39a82fd1b74f)] -> class: search-header__title]]
+2021-12-16 14:12:656 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:349 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:650 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:319 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:629 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:370 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:767 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:409 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:116 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:62 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:322 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:70 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:527 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:136 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:133 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:459 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 14:12:832 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:639 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:15 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:323 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:711 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:340 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:836 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:903 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:349 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:739 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:339 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:292 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:757 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:207 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:252 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:669 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:852 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:886 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:914 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:949 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:970 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:990 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:10 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:31 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (9a587a83e8154064876762df31754aa0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 15:12:510 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:273 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:839 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:677 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:230 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:48 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:592 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:653 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:761 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:210 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:319 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:748 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:530 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:94 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:615 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:691 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:163 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 15:12:132 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:524 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:396 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:604 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:649 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:361 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:402 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:632 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:963 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:509 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:480 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:185 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:818 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:204 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:858 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:931 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:924 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:713 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:105 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:962 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 16:12:180 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:736 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:419 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:271 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:647 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:379 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:654 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:709 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:560 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:207 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:582 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:935 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:312 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:691 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:869 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (8f0b84e879db8f702f80d53ea4ad8eb7)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 17:12:993 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:985 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:668 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:974 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:515 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:419 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:633 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:737 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (0a0ca189c1b5b3c12c233bfc0e0f3de3)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 17:12:346 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 17:12:72 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (133373472080577452c97a669d447436)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:745 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 18:12:572 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b7f8aeb118fb31d184bead31d0bee665)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:667 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b7f8aeb118fb31d184bead31d0bee665)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:728 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b7f8aeb118fb31d184bead31d0bee665)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:907 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 18:12:821 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 18:12:293 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (7440ea346cc1dacb1c639c7ee45c0192)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:327 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (7440ea346cc1dacb1c639c7ee45c0192)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:404 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (7440ea346cc1dacb1c639c7ee45c0192)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:22 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 18:12:89 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b15f824d48957a2eab28e7acb4d323e0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:119 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b15f824d48957a2eab28e7acb4d323e0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:141 INFO  HomePage :54 - mouse Hover On Buy And Sell [[ChromeDriver: chrome on WINDOWS (b15f824d48957a2eab28e7acb4d323e0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 18:12:547 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:580 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:851 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:136 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:304 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:350 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:383 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:661 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:697 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:727 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:754 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:781 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a93146d913d94d82463ddfa0ec55a138)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:949 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:836 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:990 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (4880ec2cba4bd90ef901f9897f7344ef)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:216 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:506 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a5fa58ead331c03365e94847a4c57cb5)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:950 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:156 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (52c56c3cf8fa37849f660d1df1f533f1)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:311 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:679 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (62f15a59e09d6be149bbbd91905d3ca0)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:892 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:145 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (91b2ec5a08c8d8ce69207b93d2700c4e)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 22:12:569 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 22:12:235 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (b361c5e3d260af66009c83105a3b45be)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 23:12:350 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-16 23:12:592 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (80070d627e0d9f330bc4a3eed11b36ed)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 23:12:638 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (80070d627e0d9f330bc4a3eed11b36ed)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 23:12:689 INFO  HomePage :56 - search the cars from list[[ChromeDriver: chrome on WINDOWS (80070d627e0d9f330bc4a3eed11b36ed)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-16 23:12:223 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:709 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:246 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (0269705c0f1b18f7e32dc87d5ac863f2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:271 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (0269705c0f1b18f7e32dc87d5ac863f2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:286 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (0269705c0f1b18f7e32dc87d5ac863f2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:75 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:682 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (055fb14129ee73871bb3cec8613d5954)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:714 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (055fb14129ee73871bb3cec8613d5954)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:751 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (055fb14129ee73871bb3cec8613d5954)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:273 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:344 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (eb6175c7d0bec23f6ca013278ab84b49)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:361 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (eb6175c7d0bec23f6ca013278ab84b49)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:374 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (eb6175c7d0bec23f6ca013278ab84b49)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:392 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:114 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (ab6c7ce7da78ba8ee3a7944de87a06b2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:142 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (ab6c7ce7da78ba8ee3a7944de87a06b2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:179 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (ab6c7ce7da78ba8ee3a7944de87a06b2)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:848 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:523 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (bfc1b7f3f726a881ed5f135be55e8081)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:565 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (bfc1b7f3f726a881ed5f135be55e8081)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:591 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (bfc1b7f3f726a881ed5f135be55e8081)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:173 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-17 14:12:929 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a044b5619e00af2395004e105ddf909c)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:960 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a044b5619e00af2395004e105ddf909c)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
+2021-12-17 14:12:981 INFO  HomePage :57 - search the cars from list[[ChromeDriver: chrome on WINDOWS (a044b5619e00af2395004e105ddf909c)] -> xpath: //ul[@class='uhf-menu']//li[1]//div[@class='uhf-child-menu']//li//a]
